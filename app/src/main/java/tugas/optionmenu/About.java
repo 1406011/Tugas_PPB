@@ -19,8 +19,8 @@ public class About extends AppCompatActivity {
                 "<p>" +
                 "Aplikasi pencatatan waktu olahraga\n" +
                 "Aplikasi ini dibuat oleh :<br/>" +
-                "Rivan Mulyana (1406108)<br/>" +
-                "Yulpan Paisal (1406130)<br/>" +
+                "Firda Frianda(1406055)<br/>" +
+                "Ahamad Arif Budiman (1406011)<br/>" +
                 "</p>" +
                 "</body>" +
                 "</html>", "text/html","UTF-8");
